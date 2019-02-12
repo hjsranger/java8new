@@ -15,7 +15,7 @@ public class Lambda1 {
 
         Lambda1 tester = new Lambda1();
 
-        MathOperation addition = (int a, int b) -> a+b;
+        /*MathOperation addition = (int a, int b) -> a+b;
         MathOperation subtraction = (a,b) -> a-b;
         MathOperation multip = (int a, int b) -> {return a*b;};
         MathOperation division = (a,b) -> a/b;
@@ -28,8 +28,8 @@ public class Lambda1 {
         GreetingService service1 = (message) -> {
             System.out.println("Hello "+message);
         };
-
-        service.sayMessage("HJS");
+*/
+        //service.sayMessage("HJS");
 
 
 

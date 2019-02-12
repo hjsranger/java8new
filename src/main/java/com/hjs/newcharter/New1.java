@@ -20,7 +20,7 @@ public class New1 {
         names.add("Sina");
 
 
-        names.forEach(System.out :: println);
+        //names.forEach(System.out :: println);
 
     }
 
